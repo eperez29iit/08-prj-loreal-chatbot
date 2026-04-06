@@ -4,7 +4,7 @@ const userInput = document.getElementById("userInput");
 const chatWindow = document.getElementById("chatWindow");
 
 // OpenAI API configuration
-const API_KEY = key; // from secrets.js
+// const API_KEY = key; // from secrets.js
 const API_URL = "https://api.openai.com/v1/chat/completions";
 
 // L'Oréal brand system prompt - guides AI to focus on L'Oréal products and beauty advice
